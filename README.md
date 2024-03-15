@@ -1,3 +1,5 @@
+> :warning: **This extension is not ready publically**: It's generally advised to not download any extensions that use my name (morgann1) unless it comes from the official GitHub page.
+
 # Robux Saver
 
 A simple Chrome extension that saves 40% of your Robux.
